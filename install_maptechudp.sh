@@ -882,9 +882,9 @@ perform_install() {
 							echo
 							echo -e "Follow me!"
 							echo
-							echo -e "\t+ Check out my website at $(tblue)https://www.khaledagn.com$(treset)"
-							echo -e "\t+ Follow me on Telegram: $(tblue)https://t.me/khaledagn$(treset)"
-							echo -e "\t+ Follow me on Facebook: $(tblue)https://facebook.com/itskhaledagn$(treset)"
+							echo -e "\t+ Check out my website at $(tblue)https://www.maptech.tech$(treset)"
+							echo -e "\t+ Follow me on Telegram: $(tblue)https://t.me/maptechgh$(treset)"
+							echo -e "\t+ Follow me on WhatsApp: $(tblue)https://wa.me/+15513366369$(treset)"
 							echo
 							else
 								restart_running_services
