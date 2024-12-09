@@ -2,7 +2,7 @@
 #
 # Try `install_agnudp.sh --help` for usage.
 #
-# (c) 2025 Maptech AGN
+# (c) 2025 Maptech Hysteria
 #
 
 set -e
