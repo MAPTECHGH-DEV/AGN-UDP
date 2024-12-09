@@ -1,4 +1,4 @@
-# AGN-UDP By KHALED AGN
+# MAPTECH-UDP By MAPTECHGH
 
 THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER) 
 
@@ -16,20 +16,20 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-wget https://github.com/wolfbekkk/AGN-UDP/raw/main/install_agnudp.sh
+wget https://github.com/MAPTECHGH-DEV/AGN-UDP/raw/main/install_maptechudp.sh
 ```
 // Edit script configuration 
 ```
-nano install_agnudp.sh
+nano install_maptechudp.sh
 ```
 // Install the script
 ```
-chmod +x install_agnudp.sh; ./install_agnudp.sh
+chmod +x install_maptechudp.sh; ./install_maptechudp.sh
 ```
 
-## :octocat: by KHALED AGN
+## :octocat: by MAPTECHGH
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/wolfbekk</li>
+ <li>TELEGRAM CHANNEL: https://t.me/maptechgh</li>
  <li>FACEBOOK: https://www.facebook.com/khaledagn.me</li>
  <li>INSTAGRAM: https://www.instagram.com/khaledagn</li>
  <li>TWITTER: https://www.twitter.com/khaled_agn</li>
