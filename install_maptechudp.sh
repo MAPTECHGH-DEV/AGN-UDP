@@ -875,17 +875,24 @@ perform_install() {
 					    start_services
 						if [[ -n "$_is_frash_install" ]]; then
 							echo
-							echo -e "$(tbold)Congratulation! AGN-UDP has been successfully installed on your server.$(treset)"
+							echo -e "$(tbold)Congratulation! MAPTECH-UDP HYSTERIA has been successfully installed on your server.$(treset)"
 							echo
+       							echo -e "$(tbold)Default Logins:$(treset)"
+       							echo -e "\t+ Username / Obfs $(tblue)maptech$(treset)"
+	    						echo -e "\t+ Password / Auth $(tblue)maptech$(treset)"
+	   						echo
 							echo -e "$(tbold)Client app AGN INJECTOR:$(treset)"
 							echo -e "$(tblue)https://play.google.com/store/apps/details?id=com.agn.injector$(treset)"
 							echo
 							echo -e "Follow me!"
 							echo
-							echo -e "\t+ Check out my website at $(tblue)https://www.maptech.tech$(treset)"
+							echo -e "\t+ Check out my Telegram Channel at $(tblue)https://t.me/maptech_vpn_hub$(treset)"
 							echo -e "\t+ Follow me on Telegram: $(tblue)https://t.me/maptechgh$(treset)"
 							echo -e "\t+ Follow me on WhatsApp: $(tblue)https://wa.me/+15513366369$(treset)"
 							echo
+       							echo -e "Thank you for using our script"
+	      						echo 
+	     						
 							else
 								restart_running_services
 								start_services
