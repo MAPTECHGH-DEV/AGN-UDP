@@ -2,7 +2,7 @@
 #
 # Try `install_agnudp.sh --help` for usage.
 #
-# (c) 2023 Khaled AGN
+# (c) 2025 Maptech AGN
 #
 
 set -e
@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="wolff"
+OBFS="maptech"
 
 # PASSWORDS
-PASSWORD="wolff"
+PASSWORD="maptech"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
